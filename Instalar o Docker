@@ -9,11 +9,9 @@ wsl --set-default-version 2
 
 4) Instalar o Ubuntu na Microsoft Store
 
-5) Instalar o Windows Terminal
+5) Desabilitar o Hyper-v
 
-6) Desabilitar o Hyper-v
-
-7) Criar o arquivo .wslconfig em "C:\Users\<seu_usuario>"
+6) Criar o arquivo .wslconfig em "C:\Users\<seu_usuario>"
 [wsl2]
 memory=8GB
 processors=4
